@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @potatoguyAE86
-- 👀 I’m interested in hacking .io games
-- 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me discord is potatoguy#9212
+- 👋 Hi, I’m @potatoguy947
+- 👀 I’m interested in roblox games
+- 🌱 I’m currently learning roblox development
+- 💞️ I’m looking to collaborate on roblox
+- 📫 How to reach me discord is potatoguy947
 
 <!---
 potatoguyAE86/potatoguyAE86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
